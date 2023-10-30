@@ -1,0 +1,32 @@
+form{
+    background-color: #F6F6F6;
+    border-radius: 6px;
+    margin: 1rem;
+    padding: 2rem;
+}
+.investment_row{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 1rem;
+}
+label{
+    display: block;
+    font-size: .6rem;
+}
+input{
+    padding: 5px;
+    border-radius: 6px;
+}
+
+button{
+    padding: 8px;
+    border:none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.danger{}
+.primary{
+    background-color: green;
+    color:white;
+}

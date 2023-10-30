@@ -1,0 +1,15 @@
+table{
+    text-align: end;
+    font-size: .8rem;
+    white-space: nowrap;
+    color:white;
+    margin-bottom: 2rem;
+}
+th{
+    color:white;
+    padding:10px;
+    padding-right:0;
+}
+td{
+    padding:0, 10px;
+}
